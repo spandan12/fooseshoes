@@ -452,3 +452,10 @@
     color: #7b7b7b;
     line-height: 83px;
 }
+
+@media(max-width:375px){
+    .f-right{
+        font-size: 25px;
+    }
+
+}
