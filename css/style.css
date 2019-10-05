@@ -462,14 +462,6 @@
         /* display: none; */
     }
 
-    .header{
-        display: none;
-    }
-
-    .second-body{
-        display: none;
-    }
-
     .third-body li{
         float: left;
         /* padding-left: 10px;
@@ -484,102 +476,8 @@
     }
 
     .third-body li a{
-        width: 50%;
         top:-230px;
         font-size: 30px;
     }
-
-    .fourth-body input{
-        width: 100%;
-        font-size:25px;
-        height: 50px;
-    }
-
-    .shoes-images .imageDesc{
-        margin-bottom: 50px;
-        margin-left: 15%;
-        margin-right: 15%;
-        width: 70%;
-    }
-
-    .shoes-images img{
-        width: 100%;
-    }
-
-    .fourth-body .price-info{
-        width:18%;
-        height: 120px;
-        left: 5%;
-        line-height: 120px;
-        font-size: 25px;
-    }
-
-    .fourth-body .on-sale{
-        width:18%;
-        height: 130px;
-        right: 5%;
-        font-size: 25px;
-        line-height: 130px;
-    }
-
-    .fourth-body .out{
-        background-color: #f27e4b;
-        line-height: 30px;
-        padding-top: 50px;
-        height: 100px;
-        
-    }
-
-    .fourth-body .fbfi-content{
-        padding-left: 60%;
-        height: 49px;
-    }
-
-    .shoes-images .Desc{
-        /* padding-left: 40%; */
-        line-height: 70px;
-        font-size: 25px;
-    }
-
-    .pftl-text p{
-        width: 100%;
-        font-size: 22px;
-    }
-
-    .pftm-text{
-        width: 100%;
-        font-size: 22px;
-    }
-
-    .pftr-image-wrapper{
-       width: 100%;
-    }
-
-    .pftr-image-wrapper li{
-        width: 30%;
-    }
-
-    .pftr-image-wrapper img{
-        width: 100%;
-    }
-
-    .pfb-left{
-        margin-left: 15%;
-        margin-right: 15%;
-        width: 50%;
-    }
-
-    .pfb-left .text-input{
-        padding-left: 0px;
-        width: 92%;
-    }
-
-    .pfb-right{
-        float: left;
-        width: 50%;
-        margin-left:30%;
-        padding-top: 40px;
-    }
-
 
 }
